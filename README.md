@@ -7,6 +7,8 @@
 4. 支持解析结果截屏上传合规系统。
 5. 程序生成文件以xls文件名自动归类。
     
+![运行日志截图](https://github.com/raincoat200/Source-IP-Resolving/blob/master/%E8%BF%90%E8%A1%8C%E6%97%A5%E5%BF%97.jpg)     
+   
  ---   
 # 初始化程序运行环境：   
 
