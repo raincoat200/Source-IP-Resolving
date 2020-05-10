@@ -31,9 +31,7 @@
 
 * 导入三方库 
 
-`
-    pip install wheel pandas xlrd openpyxl selenium
-`
+    `pip install wheel pandas xlrd openpyxl selenium`
 
 ---
 
